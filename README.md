@@ -22,4 +22,5 @@ This project is a web-based application designed to manage college events effici
 4. Run localhost
 
 ## Author
-Milind
+Milind Patadiya
+Vala Prashant
